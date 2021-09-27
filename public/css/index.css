@@ -9,3 +9,7 @@
 .fa-youtube.color {
   color: #F7021A; 
 }
+
+.fullscreen code {
+  max-height: fit-content !important;
+}
